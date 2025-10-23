@@ -56,6 +56,7 @@ SecureVault-Login-Manager/
 ├── SecureVault.kt      ← Main Kotlin source file
 ├── LICENSE             ← MIT License file
 └── README.md           ← Project documentation (this file)
+```
 
 ````
 

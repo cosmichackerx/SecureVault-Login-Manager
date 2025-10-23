@@ -50,13 +50,12 @@ It’s a simple yet powerful way to understand **Kotlin scoped functions in acti
 
 ## 📂 Project Structure
 
-```yaml
+
 SecureVault-Login-Manager/
 │
 ├── SecureVault.kt      ← Main Kotlin source file
 ├── LICENSE             ← MIT License file
 └── README.md           ← Project documentation (this file)
-```
 
 ````
 
